@@ -1,4 +1,4 @@
----
+p---
 manufacturer:
     - general
 ---
